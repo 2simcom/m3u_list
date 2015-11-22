@@ -1,0 +1,86 @@
+#EXTINF:-1, [I][B]ITV 1[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/645.m3u8
+#EXTINF:-1, [I][B]ITV 2[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/644.m3u8
+#EXTINF:-1, [I][B]ITV 3[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/643.m3u8
+#EXTINF:-1, [I][B]ITV 4[/B][/I]
+http://top-iptv.zapto.org:8000/live/adem/adem/641.m3u8
+
+#EXTINF:-1, [I][B]BBC One London[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://82.135.224.134:80/udp/239.100.3.1:1234
+ 
+#EXTINF:-1, [I][B]BBC One Scotland[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://82.135.224.134:80/udp/239.100.3.2:1234
+ 
+#EXTINF:-1, [I][B]BBC Two England[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://82.135.224.134:80/udp/239.100.3.3:1234
+ 
+#EXTINF:-1, [I][B]BBC Three[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://82.135.224.134:80/udp/239.100.3.4:1234
+ 
+#EXTINF:-1, [I][B]BBC Four[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#EXTINF:-1, [I][B]ITV[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://82.135.224.134/udp/239.100.3.6:1234
+
+#EXTINF:-1, [I][B]London Live[/B][/I]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1, [I][B]E4 +1[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/89
+
+#EXTINF:-1, [I][B]Dave[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/90
+
+#EXTINF:-1, [I][B]Challenge[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/91
+
+#EXTINF:-1, [I][B]Pick[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/92
+
+#EXTINF:-1, [I][B]Really[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/74
+
+#EXTINF:-1, [I][B]TruTV[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/76
+
+#EXTINF:-1, [I][B]TBN UK[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/77
+
+#EXTINF:-1, [I][B]Food Network[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/78
+
+#EXTINF:-1, [I][B]Create and Craft[/B][/I] - ([COLOR white][I][B]Sometimes [/B][/I][/COLOR] [COLOR green][I][B]ON [/B][/I][/COLOR][COLOR white][I][B]/[/B][/I][/COLOR] [COLOR red][I][B]OFF  [/B][/I][/COLOR])
+http://laganvpn12.plus.com:9981/stream/channelid/66
+#EXTINF:-1, SkySport 1
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:-1, SkySport 2
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:-1, SkySport 3
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:-1, SkySport 4
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:-1, SkySport 5
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+#EXTINF:-1, SkySport F1
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+#EXTINF:-1, BT Sport 1
+http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8
+#EXTINF:-1, BT Sport 2
+http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://195.154.226.186:1935/livepp7/bein1frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
+#EXTINF:-1, ESPN UK
+http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+#EXTINF:-1, Premier sports
+http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
+#EXTINF:-1, Fight Network HD
+http://212.200.101.3:5000/udp/237.0.0.60:5000
+#EXTINF:-1, Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
