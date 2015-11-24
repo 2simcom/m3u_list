@@ -119,13 +119,10 @@ http://213.13.26.11:1935/live/sic/livestream.m3u8
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
 
-#EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I]
+#EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
- 
-#EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I] (stream 2)
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 HD[/B][/I]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto",SPORT TV 1
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.10:1234
 
 
@@ -165,103 +162,3 @@ http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroSport 2" group-title="PORTUGAL" tvg-logo="Eurosport 2.png" tvg-name="Eurosport",[I][B]EUROSPORT 2 SD [COLOR orange](qualidade baixa)[/COLOR] [/B][/I]
 rtmp://198.144.153.145:443/flash playpath=21578?MTQ0MjQyMTU2MDtiNGExNzYwNjQyMWJjYWNkM2UyNWU1MmVhYzcwN2E2YQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/I1NDE2NGU5ZDNiZTYzMmFlYWU3Mjcy/YTQ0NHJmOjNmYzZlNzJkMjU0YzVhNTZmOWFhMDhiNDZkODZkMzM0OmIyZTdkZjEzNW/ARNO timeout=15 conn=S:OK –live
 
-***FRANCE***
-
-#EXTINF:-1, TF1
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
- 
-#EXTINF:-1, FRANCE-2
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
- 
-#EXTINF:-1, FRANCE-3
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
- 
-#EXTINF:-1, FRANCE-4
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
- 
-#EXTINF:-1, FRANCE-5
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
- 
-#EXTINF:-1, 13-Rue
-http://clinetiptv.ddns.net:8000/live/alger/alger/524.m3u8
- 
-#EXTINF:-1, M6
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
- 
-#EXTINF:-1, W9
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
- 
-#EXTINF:-1, 6ter HD
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
- 
-#EXTINF:-1, MONTE-CARLO
-http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
- 
-#EXTINF:0, Teva
-http://178.33.88.129:888/udp/239.102.0.80:1234
- 
-#EXTINF:-1,  TebeSud
-rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
- 
-#EXTINF:-1, LA CHAINE NORMANDIE
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
- 
-#EXTINF:-1, 6ter
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8 timeout=10
- 
-#EXTINF:-1, TV Rennes
-http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
- 
-#EXTINF:-1 , Mirabelle TV
-http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
- 
-#EXTINF:-1, Yvelines Premiere
-http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
- 
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Enfants ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
- 
-#EXTINF:-1, Disney Channel
-http://clinetiptv.ddns.net:8000/live/alger/alger/404.m3u8
- 
-#EXTINF:-1, Gulli
-http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
- 
-#EXTINF:-1, Going
-http://clinetiptv.ddns.net:8000/live/alger/alger/525.m3u8
- 
-#EXTINF:-1, Teletoon +
-http://clinetiptv.ddns.net:8000/live/alger/alger/519.m3u8
- 
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Serie et Cinema ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
- 
-#EXTINF:-1, OCS-City
-http://clinetiptv.ddns.net:8000/live/alger/alger/765.m3u8
- 
-#EXTINF:-1, Serie-Club-HD
-http://clinetiptv.ddns.net:8000/live/alger/alger/291.m3u8
- 
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Sport ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
- 
-#EXTINF:-1, Ma-Chaine-SportHD
-http://clinetiptv.ddns.net:8000/live/alger/alger/523.m3u8
- 
-#EXTINF:-1, BEIN-SPORT-1HD
-http://clinetiptv.ddns.net:8000/live/alger/alger/17.m3u8
- 
-#EXTINF:-1, BEIN-SPORT-2HD
-http://clinetiptv.ddns.net:8000/live/alger/alger/18.m3u8
- 
-#EXTINF:-1, Eurosport
-http://185.63.255.101/live/max14/playlist.m3u8
- 
-#EXTINF:-1, Eurosport (opt2)
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
- 
-#EXTINF:-1, Eurosport 2
-http://clinetiptv.ddns.net:8000/live/alger/alger/520.m3u8
