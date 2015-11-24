@@ -2,15 +2,9 @@
 #EXTINF:-1,[COLOR blue][I][B]--- 19-11-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 19-11-2015--[/COLOR]
 
-#EXTINF:-1,[I][B][COLOR orange]-- Temporary Channels --[/COLOR][/B][/I]
-http://0.0.0.0:1234
 
-[COLOR red]temporary offline[/COLOR]
 
-[COLOR green]online[/COLOR]
-
-#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1, UNITED KINGDOM
 
 #EXTINF:-1, [I][B]ITV 1[/B][/I]
 http://top-iptv.zapto.org:8000/live/adem/adem/645.m3u8
@@ -118,44 +112,11 @@ http://wownet.ro/str/0508.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0509" group-title="Português" tvg-logo="0509.png",[COLOR orange] RTP Internacional[/COLOR]
 http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",[I][B]RTP 1[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",[I][B]RTP 2[/B][/I]  
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",[I][B]RTP ACORES[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png",[I][B]RTP AFRICA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",[I][B]RTP MADEIRA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",[I][B]RTP MEMORIA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal",[I][B]RTP INTERNACIONAL[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
-
-#EXTINF:-1, [I][B]SIC[/B][/I]
+#EXTINF:-1, SIC
 http://213.13.26.11:1935/live/sic/livestream.m3u8
 
-#EXTINF:-1, [I][B]TVI (HQ)[/B][/I]
+#EXTINF:-1, TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORTUGAL", [I][B]TVI REALITY (A QUINTA)[/B][/I] opt2
-rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
-
-#EXTINF:-1,[COLOR yellow]ANIMACAO[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, [I][B]South Park - Uncensored (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
- 
-#EXTINF:-1, [I][B]Simpsons (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 
 
 #EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I]
