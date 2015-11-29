@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 19-11-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]--- 29-11-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 19-11-2015--[/COLOR]
 
 
@@ -31,16 +31,34 @@ http://api.iptv.ink/pl.m3u8?ch=79272030
 
 #EXTINF:-1***DEUTSCH***
 
-#EXTINF:0002 tvg-id="daserste.de" tvg-logo="609281.png", Das Erste
-http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
-#EXTINF:0003 tvg-id="zdf.de" tvg-logo="520869.png", ZDF
-http://zdf-hds-de-f.zdf.de/i/de14_v1@147090/index_710_av-b.m3u8
-#EXTINF:0065 tvg-id="orfeins.at" tvg-logo="521494.png", ORF 1
-http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-#EXTINF:0066 tvg-id="orf2.at" tvg-logo="103185.png", ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",Servus TV
-
+#EXTINF:-1,3sat
+http://217.20.164.196:8080/3sat/index.m3u8
+#EXTINF:-1,ard
+http://217.20.164.196:8080/ard/index.m3u8
+#EXTINF:-1,rbb
+http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:-1,kika
+http://217.20.164.196:8080/kika/index.m3u8
+#EXTINF:-1,zdf
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:-1,vox
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1,sat1
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1,rtl(Box Fight tonigh}
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1,n-tv
+http://217.20.164.196:8080/n-tv/index.m3u8
+#EXTINF:-1,eurosport
+http://217.20.164.196:8080/eurosport/index.m3u8
+#EXTINF:-1,euronews
+http://217.20.164.196:8080/euronews/index.m3u8
+#EXTINF:-1,mdr
+http://217.20.164.196:8080/mdr/index.m3u8
+#EXTINF:-1,ndr
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:-1,swr
+http://217.20.164.196:8080/swr/index.m3u8
 
 #EXTINF:-1***PORTUGAL***
 
@@ -81,10 +99,10 @@ http://wownet.ro/str/0508.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0509" group-title="Português" tvg-logo="0509.png",[COLOR orange] RTP Internacional[/COLOR]
 http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",[I][B]RTP 1[/B][/I]
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",RTP 1
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",[I][B]RTP 2[/B][/I]  
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",RTP 2
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",[I][B]RTP ACORES[/B][/I]
@@ -96,19 +114,61 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/pl
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",[I][B]RTP MADEIRA[/B][/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",[I][B]RTP MEMORIA[/B][/I]
+#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",RTP MEMORIA
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal",[I][B]RTP INTERNACIONAL[/B][/I]
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal",RTP INTERNACIONAL
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
 
-#EXTINF:-1, [I][B]SIC[/B][/I]
+#EXTINF:-1,SIC
 http://213.13.26.11:1935/live/sic/livestream.m3u8
 
-#EXTINF:-1, [I][B]TVI (HQ)[/B][/I]
+#EXTINF:-1,TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
 #EXTINF:-1***FRANCE***
+
+#EXTINF:-1, TF1
+http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
+ 
+#EXTINF:-1, FRANCE-2
+http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
+ 
+#EXTINF:-1, FRANCE-3
+http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
+ 
+#EXTINF:-1, FRANCE-4
+http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
+ 
+#EXTINF:-1, FRANCE-5
+http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
+ 
+#EXTINF:-1, 13-Rue
+http://clinetiptv.ddns.net:8000/live/alger/alger/524.m3u8
+ 
+#EXTINF:-1, M6
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+ 
+#EXTINF:-1, W9
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
+ 
+#EXTINF:-1, 6ter HD
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+ 
+#EXTINF:-1, MONTE-CARLO
+http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
+ 
+#EXTINF:0, Teva
+http://178.33.88.129:888/udp/239.102.0.80:1234
+ 
+#EXTINF:-1,  TebeSud
+rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
+ 
+#EXTINF:-1, LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+
+
+
 
 #EXTINF:-1 tvg-id="MOSAIQUE.ut.cx" tvg-name="Mosaique" tvg-logo="0.png" group-title="tel" ,[COLOR orange]0[/COLOR] Mosaique
 http://tvclub.fr/ch00.ts
@@ -164,43 +224,3 @@ http://tvclub.fr/ch16.ts
 #EXTINF:-1 tvg-id="CLUBNOEL.ut.cx" tvg-name="CLUBNOEL" tvg-logo="17.png" group-title="tel" ,[COLOR orange]17[/COLOR] Club de Noel
 http://tvclub.fr/ch17.ts
  
- 
- 
-#EXTINF:-1, TF1
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
- 
-#EXTINF:-1, FRANCE-2
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
- 
-#EXTINF:-1, FRANCE-3
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
- 
-#EXTINF:-1, FRANCE-4
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
- 
-#EXTINF:-1, FRANCE-5
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
- 
-#EXTINF:-1, 13-Rue
-http://clinetiptv.ddns.net:8000/live/alger/alger/524.m3u8
- 
-#EXTINF:-1, M6
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
- 
-#EXTINF:-1, W9
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
- 
-#EXTINF:-1, 6ter HD
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
- 
-#EXTINF:-1, MONTE-CARLO
-http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
- 
-#EXTINF:0, Teva
-http://178.33.88.129:888/udp/239.102.0.80:1234
- 
-#EXTINF:-1,  TebeSud
-rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
- 
-#EXTINF:-1, LA CHAINE NORMANDIE
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
