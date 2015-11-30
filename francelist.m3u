@@ -1,23 +1,35 @@
 #EXTM3U
+
+#EXTINF:-1,[COLOR cyan][I][B]--- PORTUGAL ---[/B][/I][/COLOR]
 #EXTINF:-1, RTP 1
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1, RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
 #EXTINF:-1, RTP 2
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1, RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1, RTP AFRICA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1, RTP AFRICA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1, RTP MEMORIA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
 #EXTINF:-1, SIC
 http://213.13.26.11:1935/live/sic/livestream.m3u8
 #EXTINF:-1, TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1, RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
 
-#EXTINF:-1***DEUTSCH***
+#EXTINF:-1, RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
+#EXTINF:-1, RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1, RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1, RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
+
+#EXTINF:-1, RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+
+#EXTINF:-1,[COLOR orange][I][B]--- ALEMANHA ---[/B][/I][/COLOR]
 #EXTINF:-1,3SAT
 http://217.20.164.196:8080/3sat/index.m3u8
 #EXTINF:-1,ARD
@@ -47,26 +59,25 @@ http://217.20.164.196:8080/ndr/index.m3u8
 #EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
 
-#EXTINF:-1***ESPANHA***
+#EXTINF:-1,[COLOR yellow][I][B]--- ESPANHA---[/B][/I][/COLOR]
 
-
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 1
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 1 [/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 2 (La2)
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 2 [/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 24
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", MEGA
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]MEGA [/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA RED EN VIVO 
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TV Galicia
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA SEXTA
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA SEXTA[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", ANTENA 3
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]ANTENA 3[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", Russia Today
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]Russia Today[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=84555053
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TELESUR
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=79272030
