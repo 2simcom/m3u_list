@@ -1,226 +1,72 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 29-11-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 19-11-2015--[/COLOR]
-
-
-
-#EXTINF:-1, ***ESPANHA***
-
-
-
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 1 (La1)[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 2 (La2)[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]MEGA HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA SEXTA HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]ANTENA 3 HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]Russia Today HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=84555053
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=79272030
+#EXTINF:-1, RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1, RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1, RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1, RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1, RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1, RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
+#EXTINF:-1, SIC
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+#EXTINF:-1, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
 #EXTINF:-1***DEUTSCH***
 
-#EXTINF:-1,3sat
+#EXTINF:-1,3SAT
 http://217.20.164.196:8080/3sat/index.m3u8
-#EXTINF:-1,ard
+#EXTINF:-1,ARD
 http://217.20.164.196:8080/ard/index.m3u8
-#EXTINF:-1,rbb
+#EXTINF:-1,RBB
 http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:-1,kika
+#EXTINF:-1,KIKA
 http://217.20.164.196:8080/kika/index.m3u8
-#EXTINF:-1,zdf
+#EXTINF:-1,ZDF
 http://217.20.164.196:8080/zdf/index.m3u8
-#EXTINF:-1,vox
+#EXTINF:-1,VOX
 http://217.20.164.196:8080/vox/index.m3u8
-#EXTINF:-1,sat1
+#EXTINF:-1,SAT1
 http://217.20.164.196:8080/sat1/index.m3u8
-#EXTINF:-1,rtl(Box Fight tonigh}
+#EXTINF:-1,RTL
 http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:-1,n-tv
+#EXTINF:-1,N-TV
 http://217.20.164.196:8080/n-tv/index.m3u8
-#EXTINF:-1,eurosport
+#EXTINF:-1,Eurosport
 http://217.20.164.196:8080/eurosport/index.m3u8
-#EXTINF:-1,euronews
+#EXTINF:-1,Euronews
 http://217.20.164.196:8080/euronews/index.m3u8
-#EXTINF:-1,mdr
+#EXTINF:-1,MDR
 http://217.20.164.196:8080/mdr/index.m3u8
-#EXTINF:-1,ndr
+#EXTINF:-1,NDR
 http://217.20.164.196:8080/ndr/index.m3u8
-#EXTINF:-1,swr
+#EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
 
-#EXTINF:-1***PORTUGAL***
-
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 25-11-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] REDENEOBUX.COM -- 25-11-2015 --[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]CANAIS TEMPORARIOS[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Sport Tv 1
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8
-#EXTINF:-1,Sport Tv 2
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
-#EXTINF:-1,Sport Tv 3
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
-#EXTINF:-1,Sport Tv 4
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3224.m3u8
-#EXTINF:-1,Sport Tv 5
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8
+#EXTINF:-1***ESPANHA***
 
 
-#EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="0500" group-title="Português" tvg-logo="0500.png",[COLOR orange] RTP 1[/COLOR]
-http://wownet.ro/str/0500.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0501" group-title="Português" tvg-logo="0501.png",[COLOR orange] RTP 2[/COLOR]
-http://wownet.ro/str/0501.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1,[COLOR orange]RTP 3 (INFORMACAO)[/COLOR]
-http://wownet.ro/str/0510.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0505" group-title="Português" tvg-logo="0505.png",[COLOR orange] RTP Africa[/COLOR]
-http://wownet.ro/str/0505.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0506" group-title="Português" tvg-logo="0506.png",[COLOR orange] RTP Memoria[/COLOR]
-http://wownet.ro/str/0506.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0508" group-title="Português" tvg-logo="0508.png",[COLOR orange] RTP Acores[/COLOR]
-http://wownet.ro/str/0508.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0509" group-title="Português" tvg-logo="0509.png",[COLOR orange] RTP Internacional[/COLOR]
-http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",RTP 2
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",[I][B]RTP ACORES[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png",[I][B]RTP AFRICA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",[I][B]RTP MADEIRA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",RTP MEMORIA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal",RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
-
-#EXTINF:-1,SIC
-http://213.13.26.11:1935/live/sic/livestream.m3u8
-
-#EXTINF:-1,TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-
-#EXTINF:-1***FRANCE***
-
-#EXTINF:-1, TF1
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
- 
-#EXTINF:-1, FRANCE-2
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
- 
-#EXTINF:-1, FRANCE-3
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
- 
-#EXTINF:-1, FRANCE-4
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
- 
-#EXTINF:-1, FRANCE-5
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
- 
-#EXTINF:-1, 13-Rue
-http://clinetiptv.ddns.net:8000/live/alger/alger/524.m3u8
- 
-#EXTINF:-1, M6
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
- 
-#EXTINF:-1, W9
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
- 
-#EXTINF:-1, 6ter HD
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
- 
-#EXTINF:-1, MONTE-CARLO
-http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
- 
-#EXTINF:0, Teva
-http://178.33.88.129:888/udp/239.102.0.80:1234
- 
-#EXTINF:-1,  TebeSud
-rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
- 
-#EXTINF:-1, LA CHAINE NORMANDIE
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-
-
-
-
-#EXTINF:-1 tvg-id="MOSAIQUE.ut.cx" tvg-name="Mosaique" tvg-logo="0.png" group-title="tel" ,[COLOR orange]0[/COLOR] Mosaique
-http://tvclub.fr/ch00.ts
- 
-#EXTINF:-1 tvg-id="CLUB1.ut.cx" tvg-name="Club1" tvg-logo="1.png" group-title="tel" ,[COLOR orange]1[/COLOR] Club1
-http://tvclub.fr/ch01.ts
- 
-#EXTINF:-1 tvg-id="PREMIERE.ut.cx" tvg-name="Premiere" tvg-logo="2.png" group-title="tel" ,[COLOR orange]2[/COLOR] Premiere
-http://tvclub.fr/ch02.ts
- 
-#EXTINF:-1 tvg-id="CINEFIL.ut.cx" tvg-name="Cinefil" tvg-logo="3.png" group-title="tel" ,[COLOR orange]3[/COLOR] Cinefil
-http://tvclub.fr/ch03.ts
- 
-#EXTINF:-1 tvg-id="DOCUMANIA.ut.cx" tvg-name="Documania" tvg-logo="4.png" group-title="tel" ,[COLOR orange]4[/COLOR] Documania
-http://tvclub.fr/ch04.ts
- 
-#EXTINF:-1 tvg-id="CINQPLUS.ut.cx" tvg-name="Cinq+" tvg-logo="5.png" group-title="tel" ,[COLOR orange]5[/COLOR] Cinq+
-http://tvclub.fr/ch05.ts
- 
-#EXTINF:-1 tvg-id="GLOUBI.ut.cx" tvg-name="Gloubi" tvg-logo="6.png" group-title="tel" ,[COLOR orange]6[/COLOR] Gloubi
-http://tvclub.fr/ch06.ts
- 
-#EXTINF:-1 tvg-id="MUSICBOX.ut.cx" tvg-name="MusicBox" tvg-logo="7.png" group-title="tel" ,[COLOR orange]7[/COLOR] MusicBox
-http://tvclub.fr/ch07.ts
- 
-#EXTINF:-1 tvg-id="WEST.ut.cx" tvg-name="West" tvg-logo="8.png" group-title="tel" ,[COLOR orange]8[/COLOR] West
-http://tvclub.fr/ch08.ts
- 
-#EXTINF:-1 tvg-id="PATRIMOINETV.ut.cx" tvg-name="PatrimoineTV" tvg-logo="9.png" group-title="tel" ,[COLOR orange]9[/COLOR] PatrimoineTV
-http://tvclub.fr/ch09.ts
- 
-#EXTINF:-1 tvg-id="SPEED.ut.cx" tvg-name="SpeedTV" tvg-logo="10.png" group-title="tel" ,[COLOR orange]10[/COLOR] SpeedTV
-http://tvclub.fr/ch10.ts
- 
-#EXTINF:-1 tvg-id="RIRE.ut.cx" tvg-name="Rire" tvg-logo="11.png" group-title="tel" ,[COLOR orange]11[/COLOR] Rire
-http://tvclub.fr/ch11.ts
- 
-#EXTINF:-1 tvg-id="MYSTERES.ut.cx" tvg-name="MysteresTV" tvg-logo="12.png" group-title="tel" ,[COLOR orange]12[/COLOR] MysteresTV
-http://tvclub.fr/ch12.ts
- 
-#EXTINF:-1 tvg-id="CARREBLANC.ut.cx" tvg-name="Carre Blanc" tvg-logo="13.png" group-title="tel" ,[COLOR orange]13[/COLOR] Carre Blanc (18+)
-http://tvclub.fr/ch13.ts
- 
-#EXTINF:-1 tvg-id="LRS.ut.cx" tvg-name="LRS" tvg-logo="14.png" group-title="tel" ,[COLOR orange]14[/COLOR] LRS
-http://tvclub.fr/ch14.ts
- 
-#EXTINF:-1 tvg-id="SPORTCLUB.ut.cx" tvg-name="SPORTCLUB" tvg-logo="15.png" group-title="tel" ,[COLOR orange]15[/COLOR] SportClub
-http://tvclub.fr/ch15.ts
- 
-#EXTINF:-1 tvg-id="FXTV.ut.cx" tvg-name="FXTV" tvg-logo="16.png" group-title="tel" ,[COLOR orange]16[/COLOR] FX
-http://tvclub.fr/ch16.ts
- 
-#EXTINF:-1 tvg-id="CLUBNOEL.ut.cx" tvg-name="CLUBNOEL" tvg-logo="17.png" group-title="tel" ,[COLOR orange]17[/COLOR] Club de Noel
-http://tvclub.fr/ch17.ts
- 
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 2 (La2)
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", MEGA
+http://api.iptv.ink/pl.m3u8?ch=58315547
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA RED EN VIVO 
+http://api.iptv.ink/pl.m3u8?ch=14527508
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA SEXTA
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", ANTENA 3
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", Russia Today
+http://api.iptv.ink/pl.m3u8?ch=84555053
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TELESUR
+http://api.iptv.ink/pl.m3u8?ch=79272030
