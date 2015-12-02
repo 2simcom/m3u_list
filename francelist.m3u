@@ -85,28 +85,43 @@ rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://stream
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 
 
-#EXTINF:0,TF 1 HD
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
-#EXTINF:0,France 2 HD
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
-#EXTINF:0,France 3
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
-#EXTINF:0,France 4
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
-#EXTINF:0,France 5
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
-#EXTINF:0,M6
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-#EXTINF:0,6ter
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
-#EXTINF:0,W9
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
-#EXTINF:,Action HD
-http://clinetiptv.ddns.net:8000/live/alger/alger/92.m3u8
-#EXTINF:0,Arte F HD
-http://streaming-hub.com/stream/arte.m3u8
-#EXTINF:0,13EME Rue
-http://clinetiptv.ddns.net:8000/live/alger/alger/524.m3u8
+#EXTINF:-1,[COLOR cyan][B]------- ALEMANHA   / DEUTSCHLAND-------[/B][/COLOR]
+
+
+#EXTINF:-1,ARD
+http://217.20.164.196:8080/ard/index.m3u8
+#EXTINF:-1,ZDF
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:-1,VOX
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1,SAT1
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1,3SAT
+http://217.20.164.196:8080/3sat/index.m3u8
+#EXTINF:-1,RTL
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1,N-TV
+http://217.20.164.196:8080/n-tv/index.m3u8
+#EXTINF:-1,KIKA
+http://217.20.164.196:8080/kika/index.m3u8
+#EXTINF:-1,Eurosport
+http://217.20.164.196:8080/eurosport/index.m3u8
+#EXTINF:-1,Euronews
+http://217.20.164.196:8080/euronews/index.m3u8
+#EXTINF:-1,MDR
+http://217.20.164.196:8080/mdr/index.m3u8
+#EXTINF:-1,NDR
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:-1,SWR
+http://217.20.164.196:8080/swr/index.m3u8
+#EXTINF:-1,RBB
+http://217.20.164.196:8080/rbb/index.m3u8
+
+#EXTINF:-1, Sky Sport 1 DE
+rtmp://terra.skykostenlos.com/tv/skysport1de
+#EXTINF:-1, Sky Sport 2 DE
+rtmp://terra.skykostenlos.com/tv/skysport2de
+
 
 #EXTINF:-1,[COLOR cyan][I][B]--- ESPANHA---[/B][/I][/COLOR]
 
