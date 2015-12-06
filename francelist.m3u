@@ -52,62 +52,29 @@ rtmp://terra.skykostenlos.com/tv/skysport2de
 
 #EXTINF:-1,[COLOR cyan][I][B]--- ESPANHA---[/B][/I][/COLOR]
 
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 1
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TVE 1
 http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 2
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TVE 2
 http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 24
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TVE 24
 http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", MEGA 
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", MEGA 
 http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA RED EN VIVO
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", LA RED EN VIVO
 http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TV Galicia
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TV Galicia
 http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA SEXTA
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", LA SEXTA
 http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", ANTENA 3
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", ANTENA 3
 http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", Russia Today
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", Russia Today
 http://api.iptv.ink/pl.m3u8?ch=84555053
 
 
 
 #EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
 
-#EXTINF:-1, TF1
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
- 
-#EXTINF:-1, FRANCE-2
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
- 
-#EXTINF:-1, FRANCE-3
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
- 
-#EXTINF:-1, FRANCE-4
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
- 
-#EXTINF:-1, FRANCE-5
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
- 
- 
-#EXTINF:-1, M6
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
- 
-#EXTINF:-1, W9
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
- 
-#EXTINF:-1, 6ter HD
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
- 
-#EXTINF:-1, MONTE-CARLO
-http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
- 
- 
-#EXTINF:-1,  TebeSud
-rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
- #EXTINF:-1, LA CHAINE NORMANDIE
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 
 
 
