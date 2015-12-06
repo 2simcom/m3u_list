@@ -110,6 +110,11 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.str
 
 #EXTINF:-1,[COLOR magenta][B]------- EM TESTE-------[/B][/COLOR]
 
+#EXTINF:-1, BENFICA TV
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
+
+
+
 #EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:-1,Sport Tv 1
