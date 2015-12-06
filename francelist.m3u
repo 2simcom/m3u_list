@@ -75,6 +75,8 @@ http://api.iptv.ink/pl.m3u8?ch=84555053
 
 #EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
 
+MEZZO
+http://hls.svc.moyo.tv/hls/CH_MEZZO/bw1758000/variant.m3u8?version=2&offset=0$OPT:http-user-agent=SmartLabs
 
 
 
@@ -120,6 +122,8 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3224.m3u8
 #EXTINF:-1, Sport Tv 5
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8
+BENFICA TV1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
 
 
 
