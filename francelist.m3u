@@ -75,8 +75,35 @@ http://api.iptv.ink/pl.m3u8?ch=84555053
 
 #EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
 
-#EXTINF:-1,MEZZO
-http://hls.svc.moyo.tv/hls/CH_MEZZO/bw1758000/variant.m3u8?version=2&offset=0$OPT:http-user-agent=SmartLabs
+#EXTINF:-1, M6
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+
+ 
+#EXTINF:-1, LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+ 
+#EXTINF:-1, TV Rennes
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+ 
+#EXTINF:-1 , Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+ 
+#EXTINF:-1, Yvelines Premiere
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
+ 
+
+
+#EXTINF:-1, Canal+ Sport
+http://185.63.255.101/live/max14/playlist.m3u8
+
+#EXTINF:-1, AB moteurs
+http://195.170.35.145:81/udp/234.5.2.41:1234
+
+#EXTINF:0, L'Equipe 21
+http://streaming-hub.com/stream/lequipe21.m3u8
+ 
+#EXTINF:-1, Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
 
 
