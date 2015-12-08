@@ -50,6 +50,59 @@ rtmp://terra.skykostenlos.com/tv/skysport1de
 #EXTINF:-1, Sky Sport 2 DE
 rtmp://terra.skykostenlos.com/tv/skysport2de
 
+#EXTINF:-1,SKY SPORT 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4352.ts
+#EXTINF:-1,SKY SPORT 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/4351.ts
+#EXTINF:-1,SKY SELECT 6
+http://satloveriptv.com:8090/live/mexicano/mexciano/4329.ts
+#EXTINF:-1,SKY SELECT 4
+http://satloveriptv.com:8090/live/mexicano/mexciano/4327.ts
+#EXTINF:-1,SKY SELECT 3
+http://satloveriptv.com:8090/live/mexicano/mexciano/4326.ts
+#EXTINF:-1,SKY SELECT 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4325.ts
+#EXTINF:-1,SKY COMEDY
+http://satloveriptv.com:8090/live/mexicano/mexciano/4334.ts
+#EXTINF:-1,SKY ATLANTIC
+http://satloveriptv.com:8090/live/mexicano/mexciano/4333.ts
+#EXTINF:-1,RTL
+http://satloveriptv.com:8090/live/mexicano/mexciano/4345.ts
+#EXTINF:-1,FOX TV
+http://satloveriptv.com:8090/live/mexicano/mexciano/4354.ts
+#EXTINF:-1,AXN HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4342.ts
+#EXTINF:-1, Sky Syfy
+http://satloveriptv.com:8090/live/mexicano/mexciano/4108.ts
+#EXTINF:-1, Sky Sport 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4100.ts
+#EXTINF:-1, Sky Sport 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/4099.ts
+#EXTINF:-1, Sky Select HD 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/4119.ts
+#EXTINF:-1, Sky Germany National Geographic HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4111.ts
+#EXTINF:-1, Sky Germany MGM HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4114.ts
+#EXTINF:-1, Sky Germany Hits
+http://satloveriptv.com:8090/live/mexicano/mexciano/4113.ts
+#EXTINF:-1, Sky Germany History Channel
+http://satloveriptv.com:8090/live/mexicano/mexciano/4106.ts
+#EXTINF:-1, Sky Germany Discovery Channel HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4104.ts
+#EXTINF:-1, Sky Germany Comedy HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4103.ts
+#EXTINF:-1, Sky Germany Cinema  24
+http://satloveriptv.com:8090/live/mexicano/mexciano/4116.ts
+#EXTINF:-1, Sky Germany Atlantic
+http://satloveriptv.com:8090/live/mexicano/mexciano/4110.ts
+#EXTINF:-1, Sky Germany Action
+http://satloveriptv.com:8090/live/mexicano/mexciano/4115.ts
+#EXTINF:-1, Sky Germany 13 Street HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4112.ts
+#EXTINF:-1, Sky Bundesliga 1 HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
+
 #EXTINF:-1,[COLOR cyan][B]--- ESPANHA---[/B][/COLOR]
 
 #EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 1
