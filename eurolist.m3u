@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR orange][I][B]------- ALEMANHA ------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR cyan][B]------- ALEMANHA ------[/B][/COLOR]
 
 #EXTINF:-1,ARD
 http://217.20.164.196:8080/ard/index.m3u8
@@ -49,67 +49,196 @@ http://217.20.164.196:8080/eurosport/index.m3u8
 rtmp://terra.skykostenlos.com/tv/skysport1de
 #EXTINF:-1, Sky Sport 2 DE
 rtmp://terra.skykostenlos.com/tv/skysport2de
+#EXTINF:-1,SKY SPORT 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4352.ts
+#EXTINF:-1,SKY SPORT 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/4351.ts
+#EXTINF:-1,SKY SELECT 6
+http://satloveriptv.com:8090/live/mexicano/mexciano/4329.ts
+#EXTINF:-1,SKY SELECT 4
+http://satloveriptv.com:8090/live/mexicano/mexciano/4327.ts
+#EXTINF:-1,SKY SELECT 3
+http://satloveriptv.com:8090/live/mexicano/mexciano/4326.ts
+#EXTINF:-1,SKY SELECT 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4325.ts
+#EXTINF:-1,SKY COMEDY
+http://satloveriptv.com:8090/live/mexicano/mexciano/4334.ts
+#EXTINF:-1,SKY ATLANTIC
+http://satloveriptv.com:8090/live/mexicano/mexciano/4333.ts
+#EXTINF:-1,RTL
+http://satloveriptv.com:8090/live/mexicano/mexciano/4345.ts
+#EXTINF:-1,FOX TV
+http://satloveriptv.com:8090/live/mexicano/mexciano/4354.ts
+#EXTINF:-1,AXN HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4342.ts
+#EXTINF:-1, Sky Syfy
+http://satloveriptv.com:8090/live/mexicano/mexciano/4108.ts
+#EXTINF:-1, Sky Sport 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4100.ts
+#EXTINF:-1, Sky Sport 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/4099.ts
+#EXTINF:-1, Sky Bundesliga 1 HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
 
-#EXTINF:-1,[COLOR cyan][I][B]--- ESPANHA---[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR cyan][B]--- ESPANHA---[/B][/COLOR]
 
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 1
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TVE 1
 http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 2
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TVE 2
 http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 24
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TVE 24
 http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", MEGA 
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", MEGA 
 http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA RED EN VIVO
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", LA RED EN VIVO
 http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TV Galicia
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", TV Galicia
 http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA SEXTA
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", LA SEXTA
 http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", ANTENA 3
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", ANTENA 3
 http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", Russia Today
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="EspaÃ±ol" tvg-logo="00000000.png", Russia Today
 http://api.iptv.ink/pl.m3u8?ch=84555053
 
 
 
 #EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
 
-#EXTINF:-1, TF1
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
- 
-#EXTINF:-1, FRANCE-2
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
- 
-#EXTINF:-1, FRANCE-3
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
- 
-#EXTINF:-1, FRANCE-4
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
- 
-#EXTINF:-1, FRANCE-5
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
- 
- 
+#EXTINF:-1, TMC
+http://satloveriptv.com:8090/live/mexicano/mexciano/4313.ts
+#EXTINF:-1, TF1 HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4314.ts
+#EXTINF:-1, Planete
+http://satloveriptv.com:8090/live/mexicano/mexciano/4315.ts
+#EXTINF:-1, INFOSPORT  HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4316.ts
+#EXTINF:-1, France 5
+http://satloveriptv.com:8090/live/mexicano/mexciano/4317.ts
+#EXTINF:-1, France 3
+http://satloveriptv.com:8090/live/mexicano/mexciano/4318.ts
+#EXTINF:-1, France 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/4319.ts
+#EXTINF:-1, FR:  Planete Ci
+http://satloveriptv.com:8090/live/mexicano/mexciano/4320.ts
+#EXTINF:-1, EUROSPORT 1 HD
+http://satloveriptv.com:8090/live/mexicano/mexciano/4321.ts
+#EXTINF:-1, Discovery Science fr
+http://satloveriptv.com:8090/live/mexicano/mexciano/4322.ts
+#EXTINF:-1, - W9
+http://satloveriptv.com:8090/live/mexicano/mexciano/4276.ts
+#EXTINF:-1, - Manga M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4286.ts
+#EXTINF:-1, - M6
+http://satloveriptv.com:8090/live/mexicano/mexciano/4277.ts
+#EXTINF:-1, - Escales M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4287.ts
+#EXTINF:-1, - Disney-Cinema
+http://satloveriptv.com:8090/live/mexicano/mexciano/4279.ts
+#EXTINF:-1, - DISNEY JUNIOR HD M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4288.ts
+#EXTINF:-1, - Cine Premier HD M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4289.ts
+#EXTINF:-1, - CANAL  HD M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4291.ts
+#EXTINF:-1, - CANAL  CINEMA HD M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4292.ts
+#EXTINF:-1 : - OCS Choc HD M
+http://satloveriptv.com:8090/live/mexicano/mexciano/4285.ts
+#EXTINF:-1, Vevo Rock
+http://satloveriptv.com:8090/live/mexicano/mexciano/3982.ts
+#EXTINF:-1, Vevo Music
+http://satloveriptv.com:8090/live/mexicano/mexciano/3983.ts
+#EXTINF:-1, Vevo Hip Hop
+http://satloveriptv.com:8090/live/mexicano/mexciano/3984.ts
+#EXTINF:-1, TF-1
+http://satloveriptv.com:8090/live/mexicano/mexciano/3992.ts
+#EXTINF:-1, Rouge
+http://satloveriptv.com:8090/live/mexicano/mexciano/3985.ts
+
 #EXTINF:-1, M6
+
 http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
- 
-#EXTINF:-1, W9
-http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8
- 
-#EXTINF:-1, 6ter HD
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
- 
-#EXTINF:-1, MONTE-CARLO
-http://clinetiptv.ddns.net:8000/live/alger/alger/740.m3u8
- 
- 
-#EXTINF:-1,  TebeSud
-rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
- #EXTINF:-1, LA CHAINE NORMANDIE
+
+#EXTINF:-1, LA CHAINE NORMANDIE
+
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 
+#EXTINF:-1, TV Rennes
 
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+
+
+#EXTINF:-1, Mirabelle TV
+
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+ 
+
+#EXTINF:-1, Yvelines Premiere
+
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
+
+
+#EXTINF:-1, BFM TV
+
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+
+#EXTINF:-1, BFM Business
+
+http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
+
+#EXTINF:-1, Euronews
+
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+
+
+
+#EXTINF:-1, Canal+ Sport
+
+http://185.63.255.101/live/max14/playlist.m3u8
+
+
+
+#EXTINF:-1, L'Equipe 21
+http://streaming-hub.com/stream/lequipe21.m3u8
+ 
+
+#EXTINF:-1, Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1, Mfm TV
+http://satloveriptv.com:8090/live/mexicano/mexciano/3986.ts
+#EXTINF:-1, M6 Music
+http://satloveriptv.com:8090/live/mexicano/mexciano/3987.ts
+#EXTINF:-1, M6
+http://satloveriptv.com:8090/live/mexicano/mexciano/3988.ts
+#EXTINF:-1, Lyon TV
+http://satloveriptv.com:8090/live/mexicano/mexciano/3966.ts
+#EXTINF:-1, La Tele
+http://satloveriptv.com:8090/live/mexicano/mexciano/3989.ts
+#EXTINF:-1, Eurosport2
+http://satloveriptv.com:8090/live/mexicano/mexciano/3965.ts
+#EXTINF:-1, Eurosport1
+http://satloveriptv.com:8090/live/mexicano/mexciano/3964.ts
+#EXTINF:-1, Euronews
+http://satloveriptv.com:8090/live/mexicano/mexciano/3981.ts
+#EXTINF:-1, Enorme TV
+http://satloveriptv.com:8090/live/mexicano/mexciano/3990.ts
+#EXTINF:-1, Canal+Sport
+http://satloveriptv.com:8090/live/mexicano/mexciano/3968.ts
+#EXTINF:-1, Canal+Serie
+http://satloveriptv.com:8090/live/mexicano/mexciano/3973.ts
+#EXTINF:-1, Canal+Family
+http://satloveriptv.com:8090/live/mexicano/mexciano/3972.ts
+#EXTINF:-1, Canal+Cinema
+http://satloveriptv.com:8090/live/mexicano/mexciano/3971.ts
+#EXTINF:-1, Canal+
+http://satloveriptv.com:8090/live/mexicano/mexciano/3969.ts
+#EXTINF:-1, Best Music
+http://satloveriptv.com:8090/live/mexicano/mexciano/3991.ts
+#EXTINF:-1, Bein Sport 3
+http://satloveriptv.com:8090/live/mexicano/mexciano/3963.ts
+#EXTINF:-1, Bein Sport 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/3962.ts
 
 #EXTINF:-1,[COLOR cyan][B]------- PORTUGAL -------[/B][/COLOR]
 
@@ -141,18 +270,22 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.str
 
 #EXTINF:-1,[COLOR magenta][B]------- EM TESTE-------[/B][/COLOR]
 
-#EXTINF:-1, SPORT TV AMERICAS
+
+
+#EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1, Sport Tv 1
+#EXTINF:-1,Sport Tv 1
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8
-#EXTINF:-1, Sport Tv 2
+#EXTINF:-1,Sport Tv 2
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
 #EXTINF:-1 ,Sport Tv 3
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
-#EXTINF:-1, Sport Tv 4
+#EXTINF:-1,Sport Tv 4
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3224.m3u8
-#EXTINF:-1, Sport Tv 5
+#EXTINF:-1,Sport Tv 5
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8
+#EXTINF:-1,BENFICA TV1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
 
 
 
