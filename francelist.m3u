@@ -49,7 +49,6 @@ http://217.20.164.196:8080/eurosport/index.m3u8
 rtmp://terra.skykostenlos.com/tv/skysport1de
 #EXTINF:-1, Sky Sport 2 DE
 rtmp://terra.skykostenlos.com/tv/skysport2de
-
 #EXTINF:-1,SKY SPORT 2
 http://satloveriptv.com:8090/live/mexicano/mexciano/4352.ts
 #EXTINF:-1,SKY SPORT 1
@@ -78,28 +77,6 @@ http://satloveriptv.com:8090/live/mexicano/mexciano/4108.ts
 http://satloveriptv.com:8090/live/mexicano/mexciano/4100.ts
 #EXTINF:-1, Sky Sport 1
 http://satloveriptv.com:8090/live/mexicano/mexciano/4099.ts
-#EXTINF:-1, Sky Select HD 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/4119.ts
-#EXTINF:-1, Sky Germany National Geographic HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4111.ts
-#EXTINF:-1, Sky Germany MGM HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4114.ts
-#EXTINF:-1, Sky Germany Hits
-http://satloveriptv.com:8090/live/mexicano/mexciano/4113.ts
-#EXTINF:-1, Sky Germany History Channel
-http://satloveriptv.com:8090/live/mexicano/mexciano/4106.ts
-#EXTINF:-1, Sky Germany Discovery Channel HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4104.ts
-#EXTINF:-1, Sky Germany Comedy HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4103.ts
-#EXTINF:-1, Sky Germany Cinema  24
-http://satloveriptv.com:8090/live/mexicano/mexciano/4116.ts
-#EXTINF:-1, Sky Germany Atlantic
-http://satloveriptv.com:8090/live/mexicano/mexciano/4110.ts
-#EXTINF:-1, Sky Germany Action
-http://satloveriptv.com:8090/live/mexicano/mexciano/4115.ts
-#EXTINF:-1, Sky Germany 13 Street HD
-http://satloveriptv.com:8090/live/mexicano/mexciano/4112.ts
 #EXTINF:-1, Sky Bundesliga 1 HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
 
@@ -127,7 +104,6 @@ http://api.iptv.ink/pl.m3u8?ch=84555053
 
 
 #EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
-
 
 #EXTINF:-1: TMC
 http://satloveriptv.com:8090/live/mexicano/mexciano/4313.ts
@@ -184,12 +160,9 @@ http://satloveriptv.com:8090/live/mexicano/mexciano/3985.ts
 
 http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
 
- 
-
 #EXTINF:-1, LA CHAINE NORMANDIE
 
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-
 
 #EXTINF:-1, TV Rennes
 
