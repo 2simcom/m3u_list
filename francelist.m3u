@@ -1,10 +1,121 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR orange][B]------- ALEMANHA ------[/B][/COLOR]
+
+#EXTINF:-1,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:-1,ARD
+http://217.20.164.196:8080/ard/index.m3u8
+#EXTINF:-1,TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,ZDF
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:-1,VOX
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1,SAT1
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1,3SAT
+http://217.20.164.196:8080/3sat/index.m3u8
+
+#EXTINF:-1,RTL
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1,N-TV
+http://217.20.164.196:8080/n-tv/index.m3u8
+#EXTINF:-1,KIKA
+http://217.20.164.196:8080/kika/index.m3u8
+#EXTINF:-1,Euronews
+http://217.20.164.196:8080/euronews/index.m3u8
+#EXTINF:-1,NDR
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:-1,WDR
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+#EXTINF:-1,MDR
+http://217.20.164.196:8080/mdr/index.m3u8
+#EXTINF:-1,SWR
+http://217.20.164.196:8080/swr/index.m3u8
+
+#EXTINF:-1,RBB
+http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:-1,N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_.finst_/live.m3u8
+#EXTINF:-1,SERVUS TV
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+#EXTINF:-1,W 24 Wien
+rtmp://ms01.w24.at:1935/livepkgr/livestream2
+#EXTINF:-1,AUSTRIA 24 TV
+rtmp://streaming.austria24.tv/live/stream_360p
+
+#EXTINF:-1,Eurosport
+http://217.20.164.196:8080/eurosport/index.m3u8
+#EXTINF:-1, Sky Sport 1 DE
+rtmp://terra.skykostenlos.com/tv/skysport1de
+#EXTINF:-1, Sky Sport 2 DE
+rtmp://terra.skykostenlos.com/tv/skysport2de
+
+#EXTINF:-1,[COLOR cyan][I][B]--- ESPANHA---[/B][/I][/COLOR]
+
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 2
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", MEGA 
+http://api.iptv.ink/pl.m3u8?ch=58315547
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA RED EN VIVO
+http://api.iptv.ink/pl.m3u8?ch=14527508
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", LA SEXTA
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", ANTENA 3
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", Russia Today
+http://api.iptv.ink/pl.m3u8?ch=84555053
+
+
+
+#EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
+
+#EXTINF:-1, M6
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+
+ 
+#EXTINF:-1, LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+ 
+#EXTINF:-1, TV Rennes
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+ 
+#EXTINF:-1 , Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+ 
+#EXTINF:-1, Yvelines Premiere
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
+
+ #EXTINF:0, BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:0, BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
+#EXTINF:0,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+
+
+#EXTINF:-1, Canal+ Sport
+http://185.63.255.101/live/max14/playlist.m3u8
+
+#EXTINF:0, L'Equipe 21
+http://streaming-hub.com/stream/lequipe21.m3u8
+ 
+#EXTINF:-1, Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+
+
 #EXTINF:-1,[COLOR cyan][B]------- PORTUGAL -------[/B][/COLOR]
+
 #EXTINF:-1, RTP 1
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1, RTP 1 (2)
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
 #EXTINF:-1, RTP 2
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1, SIC
@@ -29,58 +140,29 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.strea
 #EXTINF:-1, RTP INTERNACIONAL
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
 
-#EXTINF:-1,[COLOR orange][I][B]------- ALEMANHA ------[/B][/I][/COLOR]
-#EXTINF:-1,3SAT
-http://217.20.164.196:8080/3sat/index.m3u8
-#EXTINF:-1,ARD
-http://217.20.164.196:8080/ard/index.m3u8
-#EXTINF:-1,RBB
-http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:-1,KIKA
-http://217.20.164.196:8080/kika/index.m3u8
-#EXTINF:-1,ZDF
-http://217.20.164.196:8080/zdf/index.m3u8
-#EXTINF:-1,VOX
-http://217.20.164.196:8080/vox/index.m3u8
-#EXTINF:-1,SAT1
-http://217.20.164.196:8080/sat1/index.m3u8
-#EXTINF:-1,RTL
-http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:-1,N-TV
-http://217.20.164.196:8080/n-tv/index.m3u8
-#EXTINF:-1,Eurosport
-http://217.20.164.196:8080/eurosport/index.m3u8
-#EXTINF:-1,Euronews
-http://217.20.164.196:8080/euronews/index.m3u8
-#EXTINF:-1,MDR
-http://217.20.164.196:8080/mdr/index.m3u8
-#EXTINF:-1,NDR
-http://217.20.164.196:8080/ndr/index.m3u8
-#EXTINF:-1,SWR
-http://217.20.164.196:8080/swr/index.m3u8
+#EXTINF:-1,[COLOR magenta][B]------- EM TESTE-------[/B][/COLOR]
 
-#EXTINF:-1,[COLOR yellow][I][B]--- ESPANHA---[/B][/I][/COLOR]
+#EXTINF:-1, BENFICA TV 1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
 
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 1 [/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=35452405
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 2 [/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91170153
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=92978413
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]MEGA [/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=58315547
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=14527508
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=18178909
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]LA SEXTA[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=88365689
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]ANTENA 3[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=62326989
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]Russia Today[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=84555053
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Español" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=79272030
+
+
+#EXTINF:-1,SPORT TV AMERICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF:-1,Sport Tv 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8
+#EXTINF:-1,Sport Tv 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
+#EXTINF:-1 ,Sport Tv 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
+#EXTINF:-1,Sport Tv 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3224.m3u8
+#EXTINF:-1,Sport Tv 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8
+#EXTINF:-1,BENFICA TV1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
+
+
 
 #EXTINF:-1,[COLOR cyan][I][B]--- SWEDEN---[/B][/I][/COLOR]
 
@@ -88,32 +170,5 @@ http://api.iptv.ink/pl.m3u8?ch=79272030
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8?
 #EXTINF:0,TV 10 Sweden
 rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
-#EXTINF:0,TV Haugaland
-rtmp://flash0.15561-live0.dna.qbrick.com/15561-live0/live1
 #EXTINF:0,TV2 Bornholm
 rtmp://itv08.digizuite.dk/tv2b/ch1
-#EXTINF:0,TV2 Lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
-#EXTINF:0,TV2 Midt-Vest
-rtmp://live.tvmidtvest.dk/tvmv/live
-#EXTINF:0,TV2 Syd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
-#EXTINF:0,tv2fyn
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
-#EXTINF:0,tv2lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
-#EXTINF:0,tv2nord
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
-#EXTINF:0,tvsyd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
-#EXTINF:0,tv2lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
-#EXTINF:0,tvmidtvest
-rtmp://live.tvmidtvest.dk/tvmv/live
-#EXTINF:0,tvsyd
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
-#EXTINF:0,tv2fyn
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
-#EXTINF:0,tv2lorry
-rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
-#EXTINF:0,tv2nord
