@@ -105,55 +105,55 @@ http://api.iptv.ink/pl.m3u8?ch=84555053
 
 #EXTINF:-1,[COLOR cyan][B]------- FRANCE-------[/B][/COLOR]
 
-#EXTINF:-1, TMC
+#EXTINF:-1: TMC
 http://satloveriptv.com:8090/live/mexicano/mexciano/4313.ts
-#EXTINF:-1, TF1 HD
+#EXTINF:-1: TF1 HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4314.ts
-#EXTINF:-1, Planete
+#EXTINF:-1: Planete
 http://satloveriptv.com:8090/live/mexicano/mexciano/4315.ts
-#EXTINF:-1, INFOSPORT  HD
+#EXTINF:-1: INFOSPORT  HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4316.ts
-#EXTINF:-1, France 5
+#EXTINF:-1: France 5
 http://satloveriptv.com:8090/live/mexicano/mexciano/4317.ts
-#EXTINF:-1, France 3
+#EXTINF:-1: France 3
 http://satloveriptv.com:8090/live/mexicano/mexciano/4318.ts
-#EXTINF:-1, France 2
+#EXTINF:-1: France 2
 http://satloveriptv.com:8090/live/mexicano/mexciano/4319.ts
-#EXTINF:-1, FR:  Planete Ci
+#EXTINF:-1: FR:  Planete Ci
 http://satloveriptv.com:8090/live/mexicano/mexciano/4320.ts
-#EXTINF:-1, EUROSPORT 1 HD
+#EXTINF:-1: EUROSPORT 1 HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4321.ts
-#EXTINF:-1, Discovery Science fr
+#EXTINF:-1: Discovery Science fr
 http://satloveriptv.com:8090/live/mexicano/mexciano/4322.ts
-#EXTINF:-1, - W9
+#EXTINF:-1: - W9
 http://satloveriptv.com:8090/live/mexicano/mexciano/4276.ts
-#EXTINF:-1, - Manga M
+#EXTINF:-1: - Manga M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4286.ts
-#EXTINF:-1, - M6
+#EXTINF:-1: - M6
 http://satloveriptv.com:8090/live/mexicano/mexciano/4277.ts
-#EXTINF:-1, - Escales M
+#EXTINF:-1: - Escales M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4287.ts
-#EXTINF:-1, - Disney-Cinema
+#EXTINF:-1: - Disney-Cinema
 http://satloveriptv.com:8090/live/mexicano/mexciano/4279.ts
-#EXTINF:-1, - DISNEY JUNIOR HD M
+#EXTINF:-1: - DISNEY JUNIOR HD M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4288.ts
-#EXTINF:-1, - Cine Premier HD M
+#EXTINF:-1: - Cine Premier HD M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4289.ts
-#EXTINF:-1, - CANAL  HD M
+#EXTINF:-1: - CANAL  HD M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4291.ts
-#EXTINF:-1, - CANAL  CINEMA HD M
+#EXTINF:-1: - CANAL  CINEMA HD M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4292.ts
 #EXTINF:-1 : - OCS Choc HD M
 http://satloveriptv.com:8090/live/mexicano/mexciano/4285.ts
-#EXTINF:-1, Vevo Rock
+#EXTINF:-1: Vevo Rock
 http://satloveriptv.com:8090/live/mexicano/mexciano/3982.ts
-#EXTINF:-1, Vevo Music
+#EXTINF:-1: Vevo Music
 http://satloveriptv.com:8090/live/mexicano/mexciano/3983.ts
-#EXTINF:-1, Vevo Hip Hop
+#EXTINF:-1: Vevo Hip Hop
 http://satloveriptv.com:8090/live/mexicano/mexciano/3984.ts
-#EXTINF:-1, TF-1
+#EXTINF:-1: TF-1
 http://satloveriptv.com:8090/live/mexicano/mexciano/3992.ts
-#EXTINF:-1, Rouge
+#EXTINF:-1: Rouge
 http://satloveriptv.com:8090/live/mexicano/mexciano/3985.ts
 
 #EXTINF:-1, M6
@@ -200,45 +200,48 @@ http://185.63.255.101/live/max14/playlist.m3u8
 
 
 #EXTINF:-1, L'Equipe 21
+
 http://streaming-hub.com/stream/lequipe21.m3u8
  
 
 #EXTINF:-1, Eurosport
+
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1, Mfm TV
+#EXTINF:-1: Mfm TV
 http://satloveriptv.com:8090/live/mexicano/mexciano/3986.ts
-#EXTINF:-1, M6 Music
+#EXTINF:-1: M6 Music
 http://satloveriptv.com:8090/live/mexicano/mexciano/3987.ts
-#EXTINF:-1, M6
+#EXTINF:-1: M6
 http://satloveriptv.com:8090/live/mexicano/mexciano/3988.ts
-#EXTINF:-1, Lyon TV
+#EXTINF:-1: Lyon TV
 http://satloveriptv.com:8090/live/mexicano/mexciano/3966.ts
-#EXTINF:-1, La Tele
+#EXTINF:-1: La Tele
 http://satloveriptv.com:8090/live/mexicano/mexciano/3989.ts
-#EXTINF:-1, Eurosport2
+#EXTINF:-1: Eurosport2
 http://satloveriptv.com:8090/live/mexicano/mexciano/3965.ts
-#EXTINF:-1, Eurosport1
+#EXTINF:-1: Eurosport1
 http://satloveriptv.com:8090/live/mexicano/mexciano/3964.ts
-#EXTINF:-1, Euronews
+#EXTINF:-1: Euronews
 http://satloveriptv.com:8090/live/mexicano/mexciano/3981.ts
-#EXTINF:-1, Enorme TV
+#EXTINF:-1: Enorme TV
 http://satloveriptv.com:8090/live/mexicano/mexciano/3990.ts
-#EXTINF:-1, Canal+Sport
+#EXTINF:-1: Canal+Sport
 http://satloveriptv.com:8090/live/mexicano/mexciano/3968.ts
-#EXTINF:-1, Canal+Serie
+#EXTINF:-1: Canal+Serie
 http://satloveriptv.com:8090/live/mexicano/mexciano/3973.ts
-#EXTINF:-1, Canal+Family
+#EXTINF:-1: Canal+Family
 http://satloveriptv.com:8090/live/mexicano/mexciano/3972.ts
-#EXTINF:-1, Canal+Cinema
+#EXTINF:-1: Canal+Cinema
 http://satloveriptv.com:8090/live/mexicano/mexciano/3971.ts
-#EXTINF:-1, Canal+
+#EXTINF:-1: Canal+
 http://satloveriptv.com:8090/live/mexicano/mexciano/3969.ts
-#EXTINF:-1, Best Music
+#EXTINF:-1: Best Music
 http://satloveriptv.com:8090/live/mexicano/mexciano/3991.ts
-#EXTINF:-1, Bein Sport 3
+#EXTINF:-1: Bein Sport 3
 http://satloveriptv.com:8090/live/mexicano/mexciano/3963.ts
-#EXTINF:-1, Bein Sport 2
+#EXTINF:-1: Bein Sport 2
 http://satloveriptv.com:8090/live/mexicano/mexciano/3962.ts
+
 
 #EXTINF:-1,[COLOR cyan][B]------- PORTUGAL -------[/B][/COLOR]
 
